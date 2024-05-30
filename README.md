@@ -1,4 +1,4 @@
-# To-Do-List
+# 📑 To-Do-List
 Exemplo de TO-DO list com Java, SpringBoot e JPA para a gestão de tarefas.
 
 ## Sobre o Projeto
